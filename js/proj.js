@@ -1,3 +1,6 @@
+
+
+
 var trows = document.querySelectorAll("td")
 
 
